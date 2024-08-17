@@ -4,6 +4,7 @@
  ___) |  __/ | |    | || |_| | |___
 |____/|_|    |_|   |___|____/|_____|
 
+(ASCII art is better on https://raw.githubusercontent.com/zeroglzk/spy/main/README.md)
 
 [+] spypie. All rights are reserved
 
